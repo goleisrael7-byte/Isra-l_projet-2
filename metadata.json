@@ -1,0 +1,8 @@
+{
+  "name": "Remix AcademiaHA — Plateforme Intelligente de Gestion Scolaire",
+  "description": "Plateforme SaaS full-stack de gestion scolaire haute disponibilité avec espaces Administration et Étudiant interconnectés, RBAC, audit, cache résilient et génération de documents PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
